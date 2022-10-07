@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>First changes for git Testing</Text>
       <Text>Added in Develop Branch</Text>
+      <Text>Second change in Develop Branch</Text>
       <StatusBar style="auto" />
     </View>
   );
